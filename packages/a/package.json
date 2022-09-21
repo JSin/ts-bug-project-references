@@ -1,0 +1,7 @@
+{
+  "name": "a",
+  "type": "module",
+  "dependencies": {
+    "@types/pg": "8.6.5"
+  }
+}
